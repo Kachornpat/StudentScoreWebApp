@@ -1,6 +1,7 @@
 # StudentScoreWebApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.12.
+The server repository for running is here [StudentScoreServer](https://github.com/Kachornpat/StudentScoreServer)
 
 ## Development server
 
